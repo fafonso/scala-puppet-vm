@@ -19,4 +19,4 @@ Go to the terminal and execute "vagrant up" on the project root directory
 
 #### Dependencies #####
 
-[Scala Puppet Module](https://forge.puppetlabs.com/garethr/scala)
+This project is using this [Scala Puppet Module](https://forge.puppetlabs.com/garethr/scala)
