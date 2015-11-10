@@ -16,3 +16,7 @@ Go to the terminal and execute "vagrant up" on the project root directory
 
 * 1 CPU
 * 1024MB RAM
+
+#### Dependencies #####
+
+[Scala Puppet Module](https://forge.puppetlabs.com/garethr/scala)
